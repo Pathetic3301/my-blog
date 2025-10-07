@@ -65,4 +65,8 @@ footer {
     text-align: center;
     clear: both;
 }
+ img{
+    width: 250px auto;
+    height: 300px ;
+}
 
